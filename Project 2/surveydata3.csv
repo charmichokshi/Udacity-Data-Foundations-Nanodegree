@@ -1,0 +1,599 @@
+"On average, how many hours of sleep do you get per night?",What city and state / province / country do you live in?,What is your current primary occupation?
+7,Canada,Business/Strategy
+7,India,Data Engineer
+8,Japan,Machine Learning Engineer
+6,UK,Data Analyst
+8,Japan,Freelancing
+8,Mexico,Business/Strategy
+7,China,Educator / Instructor
+8,Spain,Co-founder (or solo founder)
+7,Argentina, Artificial Intelligence Engineer
+8,Spain,Business Intelligence / Business Analyst
+6,China,Data Scientist
+8,Mexico, Artificial Intelligence Engineer
+8,Argentina,Student
+8,Argentina,Educator / Instructor
+6,US,Business Intelligence / Business Analyst
+7,China,Sales
+7,Mexico,Educator / Instructor
+7,Russia,Business Intelligence / Business Analyst
+6,UK,Software Engineer
+6,China,Software Engineer
+7,Japan,Software Engineer
+8,China,Software Engineer
+7,Argentina,Software Engineer
+7,Japan,Other
+6,India,Data Scientist
+7,UK,Software Engineer
+6,Russia,Data Scientist
+6,Russia,Product Management/Project Management
+8,Russia,Other
+6,India,Software Engineer
+6,Mexico,Other
+7,Russia,Data Analyst
+8,France,Data Analyst
+8,UK,Machine Learning Engineer
+6,Spain,Other
+7,France,Other
+8,UK,Software Engineer
+7,Mexico,Business/Strategy
+7,Singapore,Machine Learning Engineer
+6,France,Software Engineer
+7,Russia,Machine Learning Engineer
+6,UK,Data Scientist
+7,Japan,Data Scientist
+7,France,Software Engineer
+8,Mexico,Data Analyst
+7,Mexico,Software Engineer
+7,US,Data Scientist
+6,Japan,Software Engineer
+7,Spain,Data Analyst
+7,India,Other
+8,Japan,Educator / Instructor
+8,Japan,Data Analyst
+7,Japan,Research
+8,India,Consulting
+8,Mexico,Data Analyst
+8,Russia,Product Management/Project Management
+7,Russia,Other
+8,France,Product Management/Project Management
+7,Spain,Software Engineer
+7,Singapore, Artificial Intelligence Engineer
+6,Argentina,Software Engineer
+6,Russia,Business/Strategy
+7,Japan,Accounting/Finance
+7,Spain,Student
+9,Argentina,Consulting
+8,Argentina,Other
+8,Argentina,Business Intelligence / Business Analyst
+7,Argentina,Research
+7,US,Research
+7,France,Product Management/Project Management
+8,Russia,Self employed
+7,Mexico,Other
+7,UK,Software Engineer
+8,Argentina,Data Scientist
+7,France,Software Engineer
+6,China,Accounting/Finance
+8,India,Data Scientist
+6,India,Freelancing
+7,Argentina,Software Engineer
+8,US,Software Engineer
+8,Mexico,Self employed
+7,Mexico,Software Engineer
+6,Canada,Research
+6,Spain,Accounting/Finance
+7,France,Freelancing
+6,China,Machine Learning Engineer
+7,China,Software Engineer
+7,France,Software Engineer
+7,US,Consulting
+6,US, Artificial Intelligence Engineer
+8,China,Machine Learning Engineer
+7,Russia,Other
+7,Canada,Machine Learning Engineer
+6,UK,Machine Learning Engineer
+6,Canada,Product Management/Project Management
+7,Russia,Sales
+6,UK,Software Engineer
+7,Singapore,Software Engineer
+7,China,Other
+7,Canada,Software Engineer
+7,US,Self employed
+9,UK, Artificial Intelligence Engineer
+8,Japan,Software Engineer
+8,France,Marketing
+8,China,Software Engineer
+7,Mexico,Software Engineer
+7,Mexico,Software Engineer
+5,Japan,Accounting/Finance
+8,Japan,Software Engineer
+8,India,Machine Learning Engineer
+6,Spain,Software Engineer
+8,France,Data Scientist
+6,Russia,Data Scientist
+6,Canada,Software Engineer
+8,UK,Machine Learning Engineer
+8,US,Machine Learning Engineer
+6,Canada,Data Scientist
+6,Russia,Research
+7,India,Business Intelligence / Business Analyst
+7,Singapore,Data Engineer
+8,India,Software Engineer
+6,Russia,Data Scientist
+8,UK,Research
+7,China,Business Intelligence / Business Analyst
+7,US,Student
+7,India,Data Scientist
+7,Canada,Data Analyst
+6,Spain,Consulting
+7,US,Business Intelligence / Business Analyst
+7,Japan,Consulting
+8,Canada,Research
+7,Singapore,Data Scientist
+7,Singapore,Business Intelligence / Business Analyst
+8,Argentina,Software Engineer
+5,France,Software Engineer
+7,China,Consulting
+8,US,Software Engineer
+7,Canada,Business Intelligence / Business Analyst
+7,Argentina,Business Intelligence / Business Analyst
+7,Russia,Research
+6,Spain,Business Intelligence / Business Analyst
+8,India,Other
+7,Russia,Software Engineer
+6,Mexico,Accounting/Finance
+6,China,Other
+8,Russia,Software Engineer
+6,Japan,Data Analyst
+6,China,Data Scientist
+7,Mexico,Freelancing
+6,Argentina,Data Engineer
+6,Canada,Software Engineer
+6,UK,Software Engineer
+8,Russia,Educator / Instructor
+8,Canada,Co-founder (or solo founder)
+7,France,Software Engineer
+7,US,Software Engineer
+7,France,Educator / Instructor
+4,China,Consulting
+7,China, Artificial Intelligence Engineer
+7,Japan,Product Management/Project Management
+6,France,Machine Learning Engineer
+6,Argentina,Freelancing
+8,Singapore,Product Management/Project Management
+7,Mexico,Business Intelligence / Business Analyst
+6,India,Research
+7,Canada,Other
+7,US,Other
+7,Argentina,Data Scientist
+8,China,Software Engineer
+8,China,Data Scientist
+8,Mexico,Software Engineer
+7,US,Software Engineer
+5,France,Research
+7,US,Data Scientist
+6,Argentina,Software Engineer
+5,India,Accounting/Finance
+6,Japan,Software Engineer
+7,Spain,Software Engineer
+7,Argentina,Data Analyst
+7,Japan, Artificial Intelligence Engineer
+7,France,Software Engineer
+6,India,Other
+8,China,Customer Service
+7,Japan,Accounting/Finance
+7,Singapore,Freelancing
+6,Singapore,Data Engineer
+6,Argentina,Product Management/Project Management
+8,Singapore,Data Analyst
+7,Mexico,Data Analyst
+8,Russia,Software Engineer
+7,UK,Marketing
+6,US,Research
+6,US, Artificial Intelligence Engineer
+7,Mexico,Machine Learning Engineer
+6,Argentina,Product Management/Project Management
+8,Singapore,Business Intelligence / Business Analyst
+8,UK,Business Intelligence / Business Analyst
+7,Canada,Software Engineer
+7,China,Product Management/Project Management
+8,China,Self employed
+7,Spain,Data Engineer
+5,Russia,Co-founder (or solo founder)
+6,China, Artificial Intelligence Engineer
+7,China,Software Engineer
+8,Japan,Software Engineer
+8,Japan,Co-founder (or solo founder)
+8,China,Software Engineer
+7,India,Software Engineer
+6,France,Data Analyst
+6,Spain,Software Engineer
+7,France,Software Engineer
+5,Argentina,Educator / Instructor
+6,Singapore,Product Management/Project Management
+7,France,Data Analyst
+6,Singapore,Data Scientist
+8,Singapore,Data Scientist
+6,Mexico,Software Engineer
+6,Japan,Research
+6,US,Self employed
+6,Singapore,Customer Service
+8,Argentina,Co-founder (or solo founder)
+8,Argentina,Software Engineer
+7,Russia,Software Engineer
+7,Japan,Software Engineer
+7,Spain,Data Analyst
+8,UK,Software Engineer
+9,India,Educator / Instructor
+7,Singapore,Business/Strategy
+8,Argentina,Research
+8,Spain,Freelancing
+8,Argentina,Software Engineer
+7,Russia,Data Scientist
+7,Spain,Software Engineer
+7,France,Data Scientist
+5,Japan,Software Engineer
+6,China,Consulting
+6,Russia,Other
+6,China,Educator / Instructor
+9,Japan,Software Engineer
+6,Singapore,Software Engineer
+8,Singapore,Software Engineer
+6,Argentina,Software Engineer
+6,China,Co-founder (or solo founder)
+7,US,Data Scientist
+7,India,Software Engineer
+6,Russia,Research
+8,Argentina,Data Analyst
+8,UK,Software Engineer
+8,India,Software Engineer
+7,Singapore,Business Intelligence / Business Analyst
+7,France,Software Engineer
+6,France,Other
+8,Mexico,Self employed
+7,China,Software Engineer
+8,US,Research
+6,Japan,Product Management/Project Management
+7,Spain,Self employed
+6,India,Software Engineer
+8,Singapore,Software Engineer
+6,Russia,Software Engineer
+7,Japan,Data Scientist
+8,France,Educator / Instructor
+7,Russia,Data Engineer
+9,UK,Software Engineer
+8,India,Software Engineer
+7,Argentina,Software Engineer
+7,France,Software Engineer
+8,Spain,Software Engineer
+7,Russia,Freelancing
+8,US,Software Engineer
+6,Russia,Software Engineer
+8,Mexico,Co-founder (or solo founder)
+7,Singapore,Machine Learning Engineer
+6,Singapore,Software Engineer
+8,Russia,Software Engineer
+7,US,Consulting
+5,Singapore,Software Engineer
+7,India,Data Scientist
+6,Argentina,Business Intelligence / Business Analyst
+7,France,Research
+6,Singapore,Other
+8,US,Other
+7,France,Data Engineer
+7,US, Artificial Intelligence Engineer
+7,UK,Product Management/Project Management
+7,Japan,Software Engineer
+7,US,Educator / Instructor
+7,UK,Other
+6,Mexico,Accounting/Finance
+8,Canada,Data Engineer
+8,Spain,Business/Strategy
+8,Mexico,Other
+6,France,Business Intelligence / Business Analyst
+7,China,Software Engineer
+8,Japan,Co-founder (or solo founder)
+6,India,Software Engineer
+6,France,Software Engineer
+7,France,Self Driving Car
+7,Russia, Artificial Intelligence Engineer
+6,Singapore,Software Engineer
+8,Japan,Self employed
+8,Singapore,Software Engineer
+7,India, Artificial Intelligence Engineer
+7,India,Software Engineer
+7,Spain,Other
+8,Argentina,Product Management/Project Management
+8,US,Software Engineer
+8,France,Other
+7,Canada,Software Engineer
+6,Spain,Co-founder (or solo founder)
+7,Japan,Software Engineer
+7,Japan, Artificial Intelligence Engineer
+7,China,Software Engineer
+7,US,Data Engineer
+6,Argentina,Software Engineer
+7,Russia,Software Engineer
+7,Spain,Software Engineer
+8,Canada,Software Engineer
+7,UK,Business Intelligence / Business Analyst
+8,France,Data Scientist
+8,Russia,Consulting
+7,Canada,Consulting
+7,China,Co-founder (or solo founder)
+8,China,Software Engineer
+7,Russia,Software Engineer
+7,France,Accounting/Finance
+7,China,Other
+7,Mexico,Software Engineer
+8,Singapore,Business Intelligence / Business Analyst
+7,France,Student
+8,China,Educator / Instructor
+6,Canada,Software Engineer
+7,Spain,Student
+7,India,Software Engineer
+7,Argentina,Data Scientist
+7,Argentina,Software Engineer
+7,Russia,Software Engineer
+7,Argentina,Business Intelligence / Business Analyst
+8,Mexico,Data Engineer
+5,Russia,Machine Learning Engineer
+8,US,Software Engineer
+7,Mexico,Data Engineer
+7,Spain,Business Intelligence / Business Analyst
+7,US,Data Analyst
+6,India,Software Engineer
+5,UK,Software Engineer
+7,Mexico,Consulting
+7,Argentina,Other
+8,Singapore,Software Engineer
+6,Russia,Data Scientist
+7,Spain,Business/Strategy
+6,US,Software Engineer
+4,Argentina,Consulting
+7,US,Software Engineer
+7,Mexico,Retired
+7,Spain,Software Engineer
+8,Japan,Product Management/Project Management
+7,US,Business Intelligence / Business Analyst
+8,France,Software Engineer
+7,Canada,Research
+5,Singapore,Consulting
+6,Japan,Data Scientist
+9,France,Software Engineer
+8,China,Software Engineer
+6,France,Self Driving Car
+8,Japan,Freelancing
+8,Mexico,Student
+7,Mexico,Software Engineer
+7,Argentina,Data Scientist
+7,UK,Software Engineer
+8,US,Research
+6,France,Software Engineer
+6,Spain,Freelancing
+7,Mexico,Data Scientist
+6,France,Consulting
+7,Mexico,Co-founder (or solo founder)
+7,India,Machine Learning Engineer
+4,Singapore,Research
+6,Russia,Co-founder (or solo founder)
+7,Canada,Other
+7,Mexico,Research
+8,Mexico,Business Intelligence / Business Analyst
+8,India,Software Engineer
+6,Japan,Data Scientist
+9,Russia,Freelancing
+6,Japan,Software Engineer
+7,India,Software Engineer
+6,Argentina,Business Intelligence / Business Analyst
+7,Argentina,Software Engineer
+8,Mexico,Data Analyst
+6,Mexico,Software Engineer
+6,Spain,Business/Strategy
+7,Argentina,Self employed
+6,UK,Software Engineer
+6,US,Freelancing
+7,Spain,Software Engineer
+7,Singapore,Research
+5,Spain,Machine Learning Engineer
+8,Mexico,Other
+7,Singapore,Co-founder (or solo founder)
+6,Mexico,Other
+8,Mexico,Business Intelligence / Business Analyst
+5,India,Software Engineer
+9,Russia,Other
+7,China,Data Scientist
+6,Mexico,Data Scientist
+8,India,Consulting
+7,UK,Software Engineer
+6,Argentina,Business/Strategy
+6,US,Software Engineer
+6,UK, Artificial Intelligence Engineer
+7,Singapore,Other
+7,Singapore,Data Scientist
+6,Argentina,Data Scientist
+7,Spain,Accounting/Finance
+6,Spain,Software Engineer
+6,France,Software Engineer
+7,Argentina,Other
+6,Russia,Data Scientist
+8,India,Consulting
+7,Mexico,Business/Strategy
+6,Russia,Business Intelligence / Business Analyst
+6,Japan,Data Engineer
+7,Singapore,Other
+7,Russia,Machine Learning Engineer
+7,Canada, Artificial Intelligence Engineer
+7,France,Software Engineer
+7,Argentina,Consulting
+7,Canada,Freelancing
+7,Japan,Accounting/Finance
+7,Russia,Consulting
+8,India,Other
+7,Spain,Research
+7,Mexico,Data Scientist
+6,Mexico,Accounting/Finance
+7,India,Business Intelligence / Business Analyst
+8,Japan,Self employed
+7,Singapore,Business/Strategy
+8,UK,Data Scientist
+7,Argentina,Other
+7,Japan,Research
+7,Canada,Software Engineer
+8,France,Software Engineer
+6,Japan,Software Engineer
+6,India,Software Engineer
+7,US,Software Engineer
+6,UK,Software Engineer
+7,France,Software Engineer
+6,India,Software Engineer
+6,Mexico,Software Engineer
+6,Mexico,Software Engineer
+8,China,Data Scientist
+6,US,Data Scientist
+6,UK,Co-founder (or solo founder)
+8,Mexico,Machine Learning Engineer
+7,China,Software Engineer
+8,France, Artificial Intelligence Engineer
+7,Singapore,Business Intelligence / Business Analyst
+7,Japan,Data Engineer
+8,Russia,Business Intelligence / Business Analyst
+7,France,Data Engineer
+7,Argentina,Accounting/Finance
+6,Argentina,Software Engineer
+8,Mexico, Artificial Intelligence Engineer
+7,UK,Data Scientist
+7,India,Software Engineer
+8,Japan,Data Scientist
+7,Spain,Research
+6,US,Business/Strategy
+7,UK,Software Engineer
+8,France,Software Engineer
+8,France,Data Analyst
+8,China,Self employed
+7,US,Customer Service
+4,Mexico,Software Engineer
+8,China,Software Engineer
+6,Japan,Data Engineer
+8,US,Software Engineer
+7,Russia,Software Engineer
+6,UK,Software Engineer
+8,Singapore,Software Engineer
+6,Spain,Data Analyst
+7,UK,Business Intelligence / Business Analyst
+6,Canada,Accounting/Finance
+6,France,Data Analyst
+6,US,Business/Strategy
+5,UK,Software Engineer
+6,Japan,Software Engineer
+6,US,Data Scientist
+6,Russia,Software Engineer
+7,India,Other
+9,France,Software Engineer
+6,Spain,Software Engineer
+7,Singapore,Software Engineer
+7,Mexico,Student
+6,Singapore,Educator / Instructor
+7,Mexico,Data Analyst
+7,UK,Software Engineer
+7,Singapore,Software Engineer
+7,Argentina,Customer Service
+5,Russia,Business Intelligence / Business Analyst
+7,Spain,Student
+7,Russia,Product Management/Project Management
+7,Canada,Data Analyst
+6,Russia,Educator / Instructor
+6,Japan,Customer Service
+7,France,Software Engineer
+7,US,Freelancing
+7,Singapore,Machine Learning Engineer
+8,UK,Business/Strategy
+6,US,Accounting/Finance
+6,UK,Business/Strategy
+7,US,Software Engineer
+5,Canada,Research
+5,China,Software Engineer
+7,UK,Co-founder (or solo founder)
+7,Japan,Machine Learning Engineer
+7,India,Self employed
+7,China,Data Scientist
+7,France,Educator / Instructor
+7,Argentina,Student
+6,Mexico,Software Engineer
+6,UK,Other
+5,Canada,Business/Strategy
+5,China,Software Engineer
+6,US,Software Engineer
+8,Argentina,Other
+6,Argentina,Product Management/Project Management
+6,Russia, Artificial Intelligence Engineer
+6,Singapore,Data Engineer
+7,Spain,Student
+7,UK, Artificial Intelligence Engineer
+7,Canada,Data Engineer
+8,Spain,Software Engineer
+6,US,Educator / Instructor
+6,Mexico,Business Intelligence / Business Analyst
+5,US,Software Engineer
+8,Canada,Machine Learning Engineer
+7,Russia,Data Engineer
+6,Mexico,Data Analyst
+6,US,Research
+7,Russia,Software Engineer
+5,Canada,Software Engineer
+7,Singapore,Software Engineer
+7,Japan, Artificial Intelligence Engineer
+4,France,Consulting
+7,Singapore,Consulting
+7,France,Business Intelligence / Business Analyst
+7,India,Research
+7,China,Data Scientist
+8,Spain,Software Engineer
+7,Canada,Other
+6,India, Artificial Intelligence Engineer
+7,Russia,Product Management/Project Management
+6,US,Data Analyst
+7,France,Software Engineer
+5,China, Artificial Intelligence Engineer
+8,UK,Business/Strategy
+7,India,Product Management/Project Management
+7,China,Data Scientist
+6,India,Other
+6,US,Co-founder (or solo founder)
+7,Singapore,Data Engineer
+4,US,Freelancing
+7,France,Other
+6,Spain,Data Analyst
+8,US,Accounting/Finance
+8,Canada,Other
+7,UK,Research
+4,France,Co-founder (or solo founder)
+6,Mexico,Product Management/Project Management
+8,China,Data Scientist
+8,Canada,Product Management/Project Management
+7,Argentina, Artificial Intelligence Engineer
+7,UK,Self employed
+7,India,Educator / Instructor
+6,Spain,Software Engineer
+8,Spain,Software Engineer
+6,Russia,Data Analyst
+6,US,Software Engineer
+7,Singapore,Co-founder (or solo founder)
+7,US,Software Engineer
+6,Canada,Software Engineer
+8,US,Software Engineer
+7,Argentina, Artificial Intelligence Engineer
+10,France,Data Engineer
+7,Spain, Artificial Intelligence Engineer
+6,Argentina,Product Management/Project Management
+6,Mexico,Software Engineer
+8,Spain,Self employed
+8,US,Self employed
+7,Canada,Educator / Instructor
+4,Singapore,Other
+7,China,Consulting
+7,Japan,Software Engineer
+8,US,Marketing
+7,Singapore,Data Scientist
+6,Canada,Data Analyst
