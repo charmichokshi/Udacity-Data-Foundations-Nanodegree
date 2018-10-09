@@ -1,0 +1,65 @@
+/* Q1: Total Spent per Country on Rock Music */
+----------------------------------------------------------------------------------------
+SELECT
+  c.Country,
+  g.Name,
+  SUM(i.total) AS total_spending
+FROM Customer c
+JOIN Invoice i
+  ON i.CustomerId = c.CustomerId
+JOIN InvoiceLine il
+  ON il.InvoiceId = i.InvoiceId
+JOIN Track t
+  ON t.TrackId = il.TrackId
+JOIN Genre g
+  ON g.GenreId = t.GenreId
+WHERE g.Name = "Rock"
+GROUP BY c.Country
+ORDER BY total_spending DESC
+LIMIT 5;
+----------------------------------------------------------------------------------------
+
+/* Q2: How many albums are of Jazz Genre? */
+----------------------------------------------------------------------------------------
+SELECT
+  g.Name GenreName,
+  COUNT(*) AS NoOfAlbums
+FROM Album a
+JOIN Track t
+  ON t.AlbumId = a.AlbumId
+JOIN Genre g
+  ON g.GenreId = t.GenreId
+GROUP BY g.Name
+ORDER BY NoOfAlbums ASC;
+----------------------------------------------------------------------------------------
+
+/* Q3: Average unite price per Media file */
+----------------------------------------------------------------------------------------
+SELECT
+  m.Name,
+  AVG(i.UnitPrice)
+FROM InvoiceLine i
+JOIN Track t
+  ON t.TrackId = i.TrackId
+JOIN MediaType m
+  ON m.MediaTypeId = t.MediaTypeId
+GROUP BY m.Name
+----------------------------------------------------------------------------------------
+
+/* Q4:  Which musicians to invite to play at the Jazz Concert? */
+----------------------------------------------------------------------------------------
+SELECT
+  a.Name,
+  COUNT(t.Name) AS songs
+FROM Artist a
+JOIN Album aa
+  ON aa.ArtistId = a.ArtistId
+JOIN Track t
+  ON t.AlbumId = aa.AlbumId
+JOIN Genre g
+  ON g.GenreId = t.GenreId
+WHERE g.Name = "Jazz"
+GROUP BY a.Name
+ORDER BY songs DESC
+LIMIT 5;
+----------------------------------------------------------------------------------------
